@@ -1,0 +1,1014 @@
+{
+  "products": [
+    {
+      "id": "QCO25VGR",
+      "name": "Estaloprams",
+      "manufacturer": {
+        "id": "QCO25VGR",
+        "name": "AbbVie"
+      },
+      "price": 17.14,
+      "expiryDate": "08/08/2024"
+    },
+    {
+      "id": "IZS35Z8R",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "IZS35Z8R",
+        "name": "AstraZeneca"
+      },
+      "price": 63.53,
+      "expiryDate": "19/10/2024"
+    },
+    {
+      "id": "AZD781FE",
+      "name": "Clopidogrel",
+      "manufacturer": {
+        "id": "AZD781FE",
+        "name": "Roche"
+      },
+      "price": 93.1,
+      "expiryDate": "03/07/2024"
+    },
+    {
+      "id": "ODF17E6F",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "ODF17E6F",
+        "name": "Amgen"
+      },
+      "price": 45.11,
+      "expiryDate": "07/09/2024"
+    },
+    {
+      "id": "WOM0095B",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "WOM0095B",
+        "name": "AbbVie"
+      },
+      "price": 62.5,
+      "expiryDate": "01/04/2024"
+    },
+    {
+      "id": "GIQ80MND",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "GIQ80MND",
+        "name": "Pfizer"
+      },
+      "price": 51.94,
+      "expiryDate": "08/08/2024"
+    },
+    {
+      "id": "OLF00BKQ",
+      "name": "Carvedilol",
+      "manufacturer": {
+        "id": "OLF00BKQ",
+        "name": "Pfizer"
+      },
+      "price": 34.17,
+      "expiryDate": "05/05/2025"
+    },
+    {
+      "id": "YCG28G6I",
+      "name": "Clopidogrel",
+      "manufacturer": {
+        "id": "YCG28G6I",
+        "name": "Roche"
+      },
+      "price": 90.18,
+      "expiryDate": "15/04/2024"
+    },
+    {
+      "id": "FIK95HZT",
+      "name": "Carvedilol",
+      "manufacturer": {
+        "id": "FIK95HZT",
+        "name": "Amgen"
+      },
+      "price": 73.42,
+      "expiryDate": "30/05/2024"
+    },
+    {
+      "id": "FCZ51FKZ",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "FCZ51FKZ",
+        "name": "GSK"
+      },
+      "price": 21.71,
+      "expiryDate": "03/03/2025"
+    },
+    {
+      "id": "DIN52MTB",
+      "name": "Carvedilol",
+      "manufacturer": {
+        "id": "DIN52MTB",
+        "name": "GSK"
+      },
+      "price": 58.06,
+      "expiryDate": "07/09/2024"
+    },
+    {
+      "id": "GAC70LFC",
+      "name": "Pantoprazole",
+      "manufacturer": {
+        "id": "GAC70LFC",
+        "name": "Roche"
+      },
+      "price": 59.18,
+      "expiryDate": "15/06/2024"
+    },
+    {
+      "id": "XNC01AIX",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "XNC01AIX",
+        "name": "Roche"
+      },
+      "price": 17.97,
+      "expiryDate": "24/02/2025"
+    },
+    {
+      "id": "TXH55B9G",
+      "name": "Fluoxetine",
+      "manufacturer": {
+        "id": "TXH55B9G",
+        "name": "Pfizer"
+      },
+      "price": 11.84,
+      "expiryDate": "22/08/2024"
+    },
+    {
+      "id": "FXG926FC",
+      "name": "Montelukast",
+      "manufacturer": {
+        "id": "FXG926FC",
+        "name": "AbbVie"
+      },
+      "price": 91.03,
+      "expiryDate": "06/02/2025"
+    },
+    {
+      "id": "JEI851XK",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "JEI851XK",
+        "name": "Pfizer"
+      },
+      "price": 98.1,
+      "expiryDate": "02/11/2024"
+    },
+    {
+      "id": "TLF92IPR",
+      "name": "Pantoprazole",
+      "manufacturer": {
+        "id": "TLF92IPR",
+        "name": "Roche"
+      },
+      "price": 73.38,
+      "expiryDate": "03/04/2025"
+    },
+    {
+      "id": "MVS8569Z",
+      "name": "Fluoxetine",
+      "manufacturer": {
+        "id": "MVS8569Z",
+        "name": "Amgen"
+      },
+      "price": 53.1,
+      "expiryDate": "07/05/2024"
+    },
+    {
+      "id": "GFY04FWB",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "GFY04FWB",
+        "name": "Amgen"
+      },
+      "price": 94.48,
+      "expiryDate": "26/03/2024"
+    },
+    {
+      "id": "EOQ86P7U",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "EOQ86P7U",
+        "name": "Pfizer"
+      },
+      "price": 35.22,
+      "expiryDate": "22/12/2024"
+    },
+    {
+      "id": "ENA37POU",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "ENA37POU",
+        "name": "Pfizer"
+      },
+      "price": 22.3,
+      "expiryDate": "04/01/2025"
+    },
+    {
+      "id": "QSM887OZ",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "QSM887OZ",
+        "name": "Pfizer"
+      },
+      "price": 69.1,
+      "expiryDate": "06/12/2024"
+    },
+    {
+      "id": "ULP96YTY",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "ULP96YTY",
+        "name": "Amgen"
+      },
+      "price": 74.84,
+      "expiryDate": "08/02/2025"
+    },
+    {
+      "id": "VVH59I4I",
+      "name": "Pantoprazole",
+      "manufacturer": {
+        "id": "VVH59I4I",
+        "name": "Pfizer"
+      },
+      "price": 87.82,
+      "expiryDate": "15/03/2025"
+    },
+    {
+      "id": "VFU053MS",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "VFU053MS",
+        "name": "Roche"
+      },
+      "price": 22.94,
+      "expiryDate": "10/03/2024"
+    },
+    {
+      "id": "QFF9093Z",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "QFF9093Z",
+        "name": "Amgen"
+      },
+      "price": 29.59,
+      "expiryDate": "24/02/2025"
+    },
+    {
+      "id": "EMB9565E",
+      "name": "Bupropion",
+      "manufacturer": {
+        "id": "EMB9565E",
+        "name": "AbbVie"
+      },
+      "price": 91.01,
+      "expiryDate": "20/03/2025"
+    },
+    {
+      "id": "KTU2038T",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "KTU2038T",
+        "name": "GSK"
+      },
+      "price": 24.31,
+      "expiryDate": "15/08/2024"
+    },
+    {
+      "id": "GJK66UDH",
+      "name": "Montelukast",
+      "manufacturer": {
+        "id": "GJK66UDH",
+        "name": "AstraZeneca"
+      },
+      "price": 73.78,
+      "expiryDate": "09/09/2024"
+    },
+    {
+      "id": "BZO37C7D",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "BZO37C7D",
+        "name": "GSK"
+      },
+      "price": 81.99,
+      "expiryDate": "27/11/2024"
+    },
+    {
+      "id": "ZWD896WQ",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "ZWD896WQ",
+        "name": "Roche"
+      },
+      "price": 28.35,
+      "expiryDate": "16/08/2024"
+    },
+    {
+      "id": "HVW68TKB",
+      "name": "Prednisone",
+      "manufacturer": {
+        "id": "HVW68TKB",
+        "name": "AbbVie"
+      },
+      "price": 44.58,
+      "expiryDate": "23/04/2025"
+    },
+    {
+      "id": "YHT886HQ",
+      "name": "Clopidogrel",
+      "manufacturer": {
+        "id": "YHT886HQ",
+        "name": "GSK"
+      },
+      "price": 73.74,
+      "expiryDate": "08/01/2025"
+    },
+    {
+      "id": "QYF09RUA",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "QYF09RUA",
+        "name": "Pfizer"
+      },
+      "price": 69.65,
+      "expiryDate": "06/05/2024"
+    },
+    {
+      "id": "TRX00E4T",
+      "name": "Acetaminophen; Hydrocodone",
+      "manufacturer": {
+        "id": "TRX00E4T",
+        "name": "GSK"
+      },
+      "price": 89.45,
+      "expiryDate": "19/05/2024"
+    },
+    {
+      "id": "BND74V2I",
+      "name": "Escitalopram",
+      "manufacturer": {
+        "id": "BND74V2I",
+        "name": "AbbVie"
+      },
+      "price": 87.47,
+      "expiryDate": "08/03/2025"
+    },
+    {
+      "id": "HRN680WL",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "HRN680WL",
+        "name": "AbbVie"
+      },
+      "price": 60.03,
+      "expiryDate": "11/06/2024"
+    },
+    {
+      "id": "EQX255EQ",
+      "name": "Pantoprazole",
+      "manufacturer": {
+        "id": "EQX255EQ",
+        "name": "Amgen"
+      },
+      "price": 66.35,
+      "expiryDate": "28/03/2024"
+    },
+    {
+      "id": "KMC65QMO",
+      "name": "Fluoxetine",
+      "manufacturer": {
+        "id": "KMC65QMO",
+        "name": "Amgen"
+      },
+      "price": 98.85,
+      "expiryDate": "24/03/2024"
+    },
+    {
+      "id": "QRJ4920Y",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "QRJ4920Y",
+        "name": "Roche"
+      },
+      "price": 60.28,
+      "expiryDate": "18/02/2025"
+    },
+    {
+      "id": "QGQ18EHC",
+      "name": "Acetaminophen; Hydrocodone",
+      "manufacturer": {
+        "id": "QGQ18EHC",
+        "name": "Roche"
+      },
+      "price": 17.72,
+      "expiryDate": "22/10/2024"
+    },
+    {
+      "id": "PEJ21E9E",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "PEJ21E9E",
+        "name": "GSK"
+      },
+      "price": 45.56,
+      "expiryDate": "23/08/2024"
+    },
+    {
+      "id": "FVZ42I8H",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "FVZ42I8H",
+        "name": "AstraZeneca"
+      },
+      "price": 63.87,
+      "expiryDate": "25/12/2024"
+    },
+    {
+      "id": "XLQ144GD",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "XLQ144GD",
+        "name": "AbbVie"
+      },
+      "price": 94.6,
+      "expiryDate": "14/11/2024"
+    },
+    {
+      "id": "RXX50I5A",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "RXX50I5A",
+        "name": "Pfizer"
+      },
+      "price": 69.89,
+      "expiryDate": "29/10/2024"
+    },
+    {
+      "id": "LMC36EGY",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "LMC36EGY",
+        "name": "GSK"
+      },
+      "price": 56.46,
+      "expiryDate": "13/11/2024"
+    },
+    {
+      "id": "EHT28B2G",
+      "name": "Fluoxetine",
+      "manufacturer": {
+        "id": "EHT28B2G",
+        "name": "Roche"
+      },
+      "price": 77.01,
+      "expiryDate": "26/05/2024"
+    },
+    {
+      "id": "NWK6381Y",
+      "name": "Prednisone",
+      "manufacturer": {
+        "id": "NWK6381Y",
+        "name": "Roche"
+      },
+      "price": 58.38,
+      "expiryDate": "02/02/2025"
+    },
+    {
+      "id": "ZUZ42C3F",
+      "name": "Escitalopram",
+      "manufacturer": {
+        "id": "ZUZ42C3F",
+        "name": "GSK"
+      },
+      "price": 95.77,
+      "expiryDate": "28/04/2025"
+    },
+    {
+      "id": "PTO99SBY",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "PTO99SBY",
+        "name": "AbbVie"
+      },
+      "price": 50.04,
+      "expiryDate": "10/09/2024"
+    },
+    {
+      "id": "TJN67O9U",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "TJN67O9U",
+        "name": "Amgen"
+      },
+      "price": 38.2,
+      "expiryDate": "18/05/2024"
+    },
+    {
+      "id": "ZDE90SFR",
+      "name": "Bupropion",
+      "manufacturer": {
+        "id": "ZDE90SFR",
+        "name": "AbbVie"
+      },
+      "price": 76.57,
+      "expiryDate": "19/09/2024"
+    },
+    {
+      "id": "RME9753T",
+      "name": "Sertraline",
+      "manufacturer": {
+        "id": "RME9753T",
+        "name": "AstraZeneca"
+      },
+      "price": 45.12,
+      "expiryDate": "19/07/2024"
+    },
+    {
+      "id": "FJX220HB",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "FJX220HB",
+        "name": "AstraZeneca"
+      },
+      "price": 66.89,
+      "expiryDate": "16/02/2025"
+    },
+    {
+      "id": "YIR56HXH",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "YIR56HXH",
+        "name": "Amgen"
+      },
+      "price": 93.29,
+      "expiryDate": "25/03/2025"
+    },
+    {
+      "id": "WUF26GUX",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "WUF26GUX",
+        "name": "AstraZeneca"
+      },
+      "price": 56.46,
+      "expiryDate": "30/10/2024"
+    },
+    {
+      "id": "FPI03MMT",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "FPI03MMT",
+        "name": "Amgen"
+      },
+      "price": 98.7,
+      "expiryDate": "13/04/2024"
+    },
+    {
+      "id": "QJU67NWN",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "QJU67NWN",
+        "name": "Roche"
+      },
+      "price": 14.57,
+      "expiryDate": "17/04/2024"
+    },
+    {
+      "id": "MIU46M3I",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "MIU46M3I",
+        "name": "GSK"
+      },
+      "price": 74.23,
+      "expiryDate": "20/05/2024"
+    },
+    {
+      "id": "GPI7936J",
+      "name": "Acetaminophen; Hydrocodone",
+      "manufacturer": {
+        "id": "GPI7936J",
+        "name": "GSK"
+      },
+      "price": 64.52,
+      "expiryDate": "01/07/2024"
+    },
+    {
+      "id": "NRV21T4O",
+      "name": "Albuterol",
+      "manufacturer": {
+        "id": "NRV21T4O",
+        "name": "AbbVie"
+      },
+      "price": 36.67,
+      "expiryDate": "04/04/2025"
+    },
+    {
+      "id": "YAH980BU",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "YAH980BU",
+        "name": "AstraZeneca"
+      },
+      "price": 30.51,
+      "expiryDate": "26/02/2025"
+    },
+    {
+      "id": "RNH3625H",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "RNH3625H",
+        "name": "AbbVie"
+      },
+      "price": 92.82,
+      "expiryDate": "29/07/2024"
+    },
+    {
+      "id": "RHH05CYU",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "RHH05CYU",
+        "name": "Amgen"
+      },
+      "price": 91.91,
+      "expiryDate": "07/02/2025"
+    },
+    {
+      "id": "MEV45TTQ",
+      "name": "Sertraline",
+      "manufacturer": {
+        "id": "MEV45TTQ",
+        "name": "GSK"
+      },
+      "price": 95.57,
+      "expiryDate": "31/07/2024"
+    },
+    {
+      "id": "APV39O0H",
+      "name": "Escitalopram",
+      "manufacturer": {
+        "id": "APV39O0H",
+        "name": "AstraZeneca"
+      },
+      "price": 32.4,
+      "expiryDate": "16/05/2024"
+    },
+    {
+      "id": "EPG83HRV",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "EPG83HRV",
+        "name": "GSK"
+      },
+      "price": 94.67,
+      "expiryDate": "22/05/2024"
+    },
+    {
+      "id": "DHY589IB",
+      "name": "Acetaminophen; Hydrocodone",
+      "manufacturer": {
+        "id": "DHY589IB",
+        "name": "Amgen"
+      },
+      "price": 98.04,
+      "expiryDate": "18/07/2024"
+    },
+    {
+      "id": "PIW48L0F",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "PIW48L0F",
+        "name": "AbbVie"
+      },
+      "price": 21.74,
+      "expiryDate": "26/01/2025"
+    },
+    {
+      "id": "USC99YWW",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "USC99YWW",
+        "name": "Amgen"
+      },
+      "price": 70.53,
+      "expiryDate": "11/04/2025"
+    },
+    {
+      "id": "KKX782MM",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "KKX782MM",
+        "name": "Roche"
+      },
+      "price": 71.58,
+      "expiryDate": "20/01/2025"
+    },
+    {
+      "id": "BDE00FRW",
+      "name": "Acetaminophen; Hydrocodone",
+      "manufacturer": {
+        "id": "BDE00FRW",
+        "name": "Pfizer"
+      },
+      "price": 72.08,
+      "expiryDate": "13/08/2024"
+    },
+    {
+      "id": "DWQ569DZ",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "DWQ569DZ",
+        "name": "Roche"
+      },
+      "price": 64.83,
+      "expiryDate": "13/08/2024"
+    },
+    {
+      "id": "FKG39LAY",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "FKG39LAY",
+        "name": "Roche"
+      },
+      "price": 28.19,
+      "expiryDate": "08/05/2025"
+    },
+    {
+      "id": "LIN56Q7U",
+      "name": "Carvedilol",
+      "manufacturer": {
+        "id": "LIN56Q7U",
+        "name": "AstraZeneca"
+      },
+      "price": 88.9,
+      "expiryDate": "17/09/2024"
+    },
+    {
+      "id": "LBZ42W9E",
+      "name": "Albuterol",
+      "manufacturer": {
+        "id": "LBZ42W9E",
+        "name": "Amgen"
+      },
+      "price": 89.68,
+      "expiryDate": "12/07/2024"
+    },
+    {
+      "id": "QOY46XFE",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "QOY46XFE",
+        "name": "Roche"
+      },
+      "price": 84.59,
+      "expiryDate": "23/09/2024"
+    },
+    {
+      "id": "PUE21INY",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "PUE21INY",
+        "name": "Pfizer"
+      },
+      "price": 34.99,
+      "expiryDate": "14/10/2024"
+    },
+    {
+      "id": "NUW32MHU",
+      "name": "Fluticasone",
+      "manufacturer": {
+        "id": "NUW32MHU",
+        "name": "Amgen"
+      },
+      "price": 75.79,
+      "expiryDate": "12/03/2024"
+    },
+    {
+      "id": "SYT51QZI",
+      "name": "Prednisone",
+      "manufacturer": {
+        "id": "SYT51QZI",
+        "name": "AbbVie"
+      },
+      "price": 32.88,
+      "expiryDate": "09/07/2024"
+    },
+    {
+      "id": "WBG90QDE",
+      "name": "Escitalopram",
+      "manufacturer": {
+        "id": "WBG90QDE",
+        "name": "AbbVie"
+      },
+      "price": 14.13,
+      "expiryDate": "30/12/2024"
+    },
+    {
+      "id": "BGE54LYZ",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "BGE54LYZ",
+        "name": "Amgen"
+      },
+      "price": 95.29,
+      "expiryDate": "28/03/2024"
+    },
+    {
+      "id": "JRQ98R6G",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "JRQ98R6G",
+        "name": "GSK"
+      },
+      "price": 43.62,
+      "expiryDate": "21/03/2024"
+    },
+    {
+      "id": "JXZ757SR",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "JXZ757SR",
+        "name": "Roche"
+      },
+      "price": 62.33,
+      "expiryDate": "18/03/2024"
+    },
+    {
+      "id": "OBO18USP",
+      "name": "Sertraline",
+      "manufacturer": {
+        "id": "OBO18USP",
+        "name": "Pfizer"
+      },
+      "price": 39.56,
+      "expiryDate": "23/01/2025"
+    },
+    {
+      "id": "ZLE27TXL",
+      "name": "Albuterol",
+      "manufacturer": {
+        "id": "ZLE27TXL",
+        "name": "Roche"
+      },
+      "price": 41.31,
+      "expiryDate": "23/12/2024"
+    },
+    {
+      "id": "WQF05DDH",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "WQF05DDH",
+        "name": "GSK"
+      },
+      "price": 20.28,
+      "expiryDate": "03/05/2025"
+    },
+    {
+      "id": "LHP79A7U",
+      "name": "Duloxetine",
+      "manufacturer": {
+        "id": "LHP79A7U",
+        "name": "Pfizer"
+      },
+      "price": 33.54,
+      "expiryDate": "29/03/2025"
+    },
+    {
+      "id": "DQU90B8T",
+      "name": "Simvastatin",
+      "manufacturer": {
+        "id": "DQU90B8T",
+        "name": "Amgen"
+      },
+      "price": 45.26,
+      "expiryDate": "18/05/2024"
+    },
+    {
+      "id": "TDW79U3Y",
+      "name": "Albuterol",
+      "manufacturer": {
+        "id": "TDW79U3Y",
+        "name": "AbbVie"
+      },
+      "price": 16.17,
+      "expiryDate": "13/05/2024"
+    },
+    {
+      "id": "PZD59I9J",
+      "name": "Meloxicam",
+      "manufacturer": {
+        "id": "PZD59I9J",
+        "name": "AstraZeneca"
+      },
+      "price": 38.19,
+      "expiryDate": "14/03/2025"
+    },
+    {
+      "id": "DQS54T1L",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "DQS54T1L",
+        "name": "GSK"
+      },
+      "price": 56.28,
+      "expiryDate": "22/11/2024"
+    },
+    {
+      "id": "LFA32O9T",
+      "name": "Montelukast",
+      "manufacturer": {
+        "id": "LFA32O9T",
+        "name": "AbbVie"
+      },
+      "price": 70.66,
+      "expiryDate": "27/02/2025"
+    },
+    {
+      "id": "BJF25NKJ",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "BJF25NKJ",
+        "name": "AstraZeneca"
+      },
+      "price": 60.11,
+      "expiryDate": "02/05/2024"
+    },
+    {
+      "id": "TBT40QXO",
+      "name": "Bupropion",
+      "manufacturer": {
+        "id": "TBT40QXO",
+        "name": "GSK"
+      },
+      "price": 49.28,
+      "expiryDate": "20/01/2025"
+    },
+    {
+      "id": "NPI34MVI",
+      "name": "Furosemide",
+      "manufacturer": {
+        "id": "NPI34MVI",
+        "name": "GSK"
+      },
+      "price": 65.76,
+      "expiryDate": "20/10/2024"
+    },
+    {
+      "id": "FRJ02TMT",
+      "name": "Rosuvastatin",
+      "manufacturer": {
+        "id": "FRJ02TMT",
+        "name": "GSK"
+      },
+      "price": 57.77,
+      "expiryDate": "25/01/2025"
+    },
+    {
+      "id": "CAS35FWU",
+      "name": "Albuterol",
+      "manufacturer": {
+        "id": "CAS35FWU",
+        "name": "AbbVie"
+      },
+      "price": 95.75,
+      "expiryDate": "10/06/2024"
+    },
+    {
+      "id": "NTC81TIX",
+      "name": "Losartan",
+      "manufacturer": {
+        "id": "NTC81TIX",
+        "name": "GSK"
+      },
+      "price": 59.81,
+      "expiryDate": "05/04/2025"
+    },
+    {
+      "id": "NJN701FJ",
+      "name": "Prednisone",
+      "manufacturer": {
+        "id": "NJN701FJ",
+        "name": "AbbVie"
+      },
+      "price": 51.48,
+      "expiryDate": "08/03/2024"
+    },
+    {
+      "id": "suQwmYn",
+      "name": "test",
+      "manufacturer": {
+        "name": "test",
+        "id": ""
+      },
+      "price": 200,
+      "expiryDate": "2024-02-21T14:35:08.000Z"
+    }
+  ]
+}
